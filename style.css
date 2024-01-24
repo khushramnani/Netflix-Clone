@@ -209,9 +209,9 @@ nav {
 
 .img-section-1 video {
     position: absolute;
-    /* right: 269px; */
-    /* top: 858px; */
-
+    right: 269px;
+    top: 858px;
+    width: 25vw;
 }
 
 /* second..  */
@@ -262,7 +262,7 @@ nav {
     overflow: hidden;
 }
 
-.img-section-1 video {
+.img-section-3 video {
     position: absolute;
     right: 18rem;
     width: 22vw;
